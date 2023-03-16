@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theomax13
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning everything about programming like HTML, CSS, JS, PHP...
-- 💞️ I’m looking to collaborate on tips and extention for VSCODE for a more easier programming life
+- 👀 I’m interested in everything about developpement
+- 🌱 I’m currently learning everything about programming like React, Laravel, C#...
+- 💞️ I’m looking to collaborate/exchange on tips to be more proficient during my journey
 - 📫 How to reach me Discord : theomax13#0934
 
 <!---
